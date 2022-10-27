@@ -1,4 +1,4 @@
-from odmantic import Model,Field
+from odmantic import Model, Field
 
 
 class User(Model):
